@@ -25,6 +25,14 @@ Create a program that calculates and selects a cutting tool and its parameters b
 5. **Expected JSON Output:**
     - The JSON output should mirror the provided example, encapsulating all necessary details.
 
+
+## Evaluation Criteria
+
+- **Code Quality:** Readability, maintainability, and adherence to best practices.
+- **Correctness:** Accuracy of the output JSON in matching the given structure.
+- **Efficiency:** How well the program handles different inputs and scales.
+- **Completeness:** Inclusion of all required fields in the output.
+- **Creativity:** Innovative approaches in handling the task requirements.
 ---
 
 ## Example JSON Output Structure
@@ -109,11 +117,5 @@ Create a program that calculates and selects a cutting tool and its parameters b
   }
 
 
-## Evaluation Criteria
 
-- **Code Quality:** Readability, maintainability, and adherence to best practices.
-- **Correctness:** Accuracy of the output JSON in matching the given structure.
-- **Efficiency:** How well the program handles different inputs and scales.
-- **Completeness:** Inclusion of all required fields in the output.
-- **Creativity:** Innovative approaches in handling the task requirements.
 
